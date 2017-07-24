@@ -6,5 +6,5 @@ $('.smarty').animate({
 $('.welcome').animate({
     fontSize : "5em"
 },3000);
-
+$('.tagLine').fadeIn(9000);
 });
